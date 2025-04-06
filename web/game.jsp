@@ -242,14 +242,14 @@
         .counter-content {
             color: white;
             text-align: center;
-            margin-left: 150px; /* 给药典留出空间 */
+            margin-left: 700px; /* 给药典留出空间 */
         }
 
         /* 药典书区域 - 修改为放在柜台左侧 */
         .herb-book {
             position: absolute;
-            left: 20px;
-            bottom: 20px;
+            left: 30px;
+            bottom: 60px;
             background-color: #5D4037;
             display: flex;
             flex-direction: column;
